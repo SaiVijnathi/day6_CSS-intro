@@ -1,0 +1,37 @@
+.image,#Labrador,#Golden,#German{
+    width: 300px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+}
+#body{
+    background-color: rgba(243, 207, 162, 0.884);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    border-radius: 25px;
+    padding-inline: 20px;
+    padding-top: 0.5px;     
+    padding-bottom: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#h1{
+    color:rgb(38, 54, 7);
+    text-shadow: 7px 7px 7px rgb(240, 182, 134);
+    text-align: center;
+    font-size: 35px;
+}
+h2{
+    color: rgb(18, 18, 82);
+}
+p{
+    font-size: 110%;
+}
+a{
+    color:rgb(141, 20, 70);
+}
+html{
+    background-image: url(./Images/background.jpg);
+    background-attachment: fixed;
+}
